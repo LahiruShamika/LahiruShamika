@@ -12,11 +12,11 @@ How to reach me *lahirushamika59@gmail.com* <br>
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="https://twitter.com/buwanekaonline" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Twitter.svg" alt="buwanekaonline" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/buwaneka-vishwajith-645378206" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" alt="buwaneka-vishwajith-645378206" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/22067867" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/raw/main/icons/StackOverflow-Dark.svg" alt="22067867" height="30" width="40" /></a>
-<a href="https://www.instagram.com/vish.code" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Instagram.svg" alt="iambuwaneka" height="30" width="40" /></a>
-<a href="https://medium.com/@buwaneka10000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@buwaneka10000" height="30" width="40" /></a>
+<a href="https://x.com/LahiruShamika8" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Twitter.svg" alt="LahiruShamika8" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/lahiru-sh-m16" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" alt="lahiru-sh-m16" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/26512907" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/raw/main/icons/StackOverflow-Dark.svg" alt="26512907" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_l_a_h_i_r_u_sh" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Instagram.svg" alt="_l_a_h_i_r_u_sh" height="30" width="40" /></a>
+<a href="https://medium.com/@lahirushamika59" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@lahirushamika59" height="30" width="40" /></a>
 </p>
 
 <h1 align="left">👽 Tech Stack:</h1>
